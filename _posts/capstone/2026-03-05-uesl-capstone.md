@@ -92,8 +92,8 @@ sticky_rank: 8
       <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Days of digital community vs. seasonal sessions</div>
     </div>
     <div style="background: rgba(124,58,237,0.1); border: 1px solid rgba(124,58,237,0.3); border-radius: 10px; padding: 1rem; text-align: center;">
-      <div style="color: #f5f3ff; font-size: 1.6rem; font-weight: 700; line-height: 1;">100+</div>
-      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">IDD participants across 7 tech centers</div>
+      <div style="color: #f5f3ff; font-size: 1.1rem; font-weight: 700; line-height: 1.2;">Group Chats</div>
+      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Users can socialize through group chats</div>
     </div>
   </div>
 

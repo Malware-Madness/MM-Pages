@@ -72,34 +72,30 @@ sticky_rank: 8
     </div>
   </div>
 
-  <!-- Extended Info Button -->
-  <div style="text-align: center; margin-bottom: 2rem;">
-    <a href="/capstone/uesl/extended/" style="display: inline-block; background: rgba(124,58,237,0.15); border: 1px solid rgba(124,58,237,0.4); color: #a78bfa; font-size: 0.9rem; font-weight: 600; padding: 0.65rem 2rem; border-radius: 9999px; cursor: pointer; letter-spacing: 0.03em; text-decoration: none;">Extended Information</a>
-  </div>
-
-  <!-- Impact Metrics -->
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem; margin-bottom: 2rem;">
-    <div style="background: rgba(124,58,237,0.1); border: 1px solid rgba(124,58,237,0.3); border-radius: 10px; padding: 1rem; text-align: center;">
-      <div style="color: #f5f3ff; font-size: 1.6rem; font-weight: 700; line-height: 1;">80%+</div>
-      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Inquiries resolved by chatbot without staff</div>
-    </div>
-    <div style="background: rgba(6,182,212,0.08); border: 1px solid rgba(6,182,212,0.25); border-radius: 10px; padding: 1rem; text-align: center;">
-      <div style="color: #f5f3ff; font-size: 1.6rem; font-weight: 700; line-height: 1;">8</div>
-      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">IDD-specific accessibility modes</div>
-    </div>
-    <div style="background: rgba(124,58,237,0.1); border: 1px solid rgba(124,58,237,0.3); border-radius: 10px; padding: 1rem; text-align: center;">
-      <div style="color: #f5f3ff; font-size: 1.6rem; font-weight: 700; line-height: 1;">365</div>
-      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Days of digital community vs. seasonal sessions</div>
-    </div>
-    <div style="background: rgba(124,58,237,0.1); border: 1px solid rgba(124,58,237,0.3); border-radius: 10px; padding: 1rem; text-align: center;">
-      <div style="color: #f5f3ff; font-size: 1.1rem; font-weight: 700; line-height: 1.2;">Group Chats</div>
-      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Users can socialize through group chats</div>
-    </div>
+  <!-- Platform Pillars -->
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; margin-bottom: 2rem;">
+    <a href="https://ueslhub.opencodingsociety.com/" target="_blank" rel="noopener noreferrer" style="background: rgba(124,58,237,0.1); border: 1px solid rgba(124,58,237,0.3); border-radius: 10px; padding: 1rem; text-align: center; text-decoration: none; display: block;">
+      <div style="color: #f5f3ff; font-size: 1.1rem; font-weight: 700; line-height: 1.2;">Social</div>
+      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Messaging System</div>
+    </a>
+    <a href="https://ueslhub.opencodingsociety.com/play/" target="_blank" rel="noopener noreferrer" style="background: rgba(6,182,212,0.08); border: 1px solid rgba(6,182,212,0.25); border-radius: 10px; padding: 1rem; text-align: center; text-decoration: none; display: block;">
+      <div style="color: #f5f3ff; font-size: 1.1rem; font-weight: 700; line-height: 1.2;">GameBuilder</div>
+      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Accessible drag-and-drop game engine</div>
+    </a>
+    <a href="https://ueslhub.opencodingsociety.com/" target="_blank" rel="noopener noreferrer" style="background: rgba(124,58,237,0.1); border: 1px solid rgba(124,58,237,0.3); border-radius: 10px; padding: 1rem; text-align: center; text-decoration: none; display: block;">
+      <div style="color: #f5f3ff; font-size: 1.1rem; font-weight: 700; line-height: 1.2;">UESL Coach</div>
+      <div style="color: #c4b5fd; font-size: 0.72rem; line-height: 1.4; margin-top: 0.3rem;">Groq AI</div>
+    </a>
   </div>
 
   <!-- Closing -->
-  <div style="background: rgba(255,255,255,0.04); border-left: 3px solid #7c3aed; border-radius: 0 8px 8px 0; padding: 1rem 1.25rem;">
+  <div style="background: rgba(255,255,255,0.04); border-left: 3px solid #7c3aed; border-radius: 0 8px 8px 0; padding: 1rem 1.25rem; margin-bottom: 2rem;">
     <p style="color: #e9d5ff; font-size: 0.9rem; margin: 0; line-height: 1.7;">The three components are one connected system — users onboard through the chatbot, engage through gameplay, and stay through community. Together they remove the ceiling on UESL's impact: no venue limits, no language barriers, no off-season disengagement.</p>
+  </div>
+
+  <!-- Extended Info Button -->
+  <div style="text-align: center;">
+    <a href="/capstone/uesl/extended/" style="display: inline-block; background: rgba(124,58,237,0.15); border: 1px solid rgba(124,58,237,0.4); color: #a78bfa; font-size: 0.9rem; font-weight: 600; padding: 0.65rem 2rem; border-radius: 9999px; letter-spacing: 0.03em; text-decoration: none;">Extended Information</a>
   </div>
 
 </div>
